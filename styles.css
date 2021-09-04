@@ -1,0 +1,186 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #7db6b4;
+    padding: 15px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #345281;
+}
+body{
+    margin: 0px;
+    background-color:#dda033;
+    
+}
+/*a{
+    text-decoration :none
+}*/
+a:link{
+    color:white;
+}
+
+/*a:old*/
+/*a:clicked*/
+/*a:seen{*/
+a:visited{
+    color:gray;
+}
+
+.bodyimg{
+    position: relative;
+}
+.bodyimg p{
+    color:#0d97ac;
+    font-size: 60px;
+    font-family: fantasy;
+    width: 1200px;
+    position: absolute;
+    top:10%;
+    left:43%;
+    transform: translate(-40%,150%);
+}
+.bodyimg h3{
+    color:#a8c8cf;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 25px;
+    width: 1200px;
+    position: absolute;
+    top:40%;
+    left:43%;
+    bottom:-20%;
+    transform: translate(-40%, 10%);
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami1 {
+    
+    border-radius: 20px;
+    background-color:#b6b47d ;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origami1:hover{ 
+    transform: scale(1.2);
+}
+
+.origami2 {
+    
+    border-radius: 20px;
+    background-color: #a07979;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origami2:hover{ 
+    transform: scale(1.2);
+}
+
+.origami3 {
+    
+    border-radius: 20px;
+    background-color:#b6977d ;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origami3:hover{ 
+    transform: scale(1.2);
+}
+
+.origami4 {
+    
+    border-radius: 20px;
+    background-color: #c6c6c6;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origami4:hover{ 
+    transform: scale(1.2);
+}
+
+.origami5 {
+    
+    border-radius: 20px;
+    background-color: #b67d9c;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origami5:hover{ 
+    transform: scale(1.2);
+}
+
+.origami6 {
+    
+    border-radius: 20px;
+    background-color: #e68a7e;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origami6:hover{ 
+    transform: scale(1.2);
+}
+
+.origami7 {
+    
+    border-radius: 20px;
+    background-color: #a4b67d;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origami7:hover{ 
+    transform: scale(1.2);
+}
+
+.origami8 {
+    
+    border-radius: 20px;
+    background-color: #7db6b4;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: fantasy;
+    
+}
+
+.origami8:hover{ 
+/*.origami : mouseover{*/
+/*.origami:link{*/
+/*origami:hover{*/
+    transform: scale(1.2);
+}
